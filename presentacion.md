@@ -1,6 +1,11 @@
-# Presentación
-Hola! Mi nombre es [COMPLETAR].
+---
+## Arquitectura y Organización de computadores
+---
+### Presentación
+---
 
-En mi tiempo libre me gusta...
+Hola! Mi nombre es Noe.
 
-Mi instrucción favorita del manual de intel es...
+En mi tiempo libre me gusta ***leer literatura***.
+
+Mi instrucción favorita del manual de intel es ***BOUND***.
